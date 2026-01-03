@@ -12,10 +12,11 @@ BE Computer Science and Engineering Student
 - 😇 Pronouns : Tech Enthusiast
 
 ### I Code in
-<img height="50" width="50" src="https://img.icons8.com/?size=80&id=lTKW3iI3wIT0&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=PXTY4q2Sq2lG&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=80&id=VXQrhy9fWtm1&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=80&id=QeIg9siFKGgp&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=v8RpPQUwv0N8&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=60&id=3BTBsJs5myRy&format=png"/> 
+<img height="50" width="50" src="https://img.icons8.com/?size=80&id=lTKW3iI3wIT0&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=PXTY4q2Sq2lG&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=80&id=VXQrhy9fWtm1&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=80&id=QeIg9siFKGgp&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=v8RpPQUwv0N8&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=60&id=3BTBsJs5myRy&format=png"/>
+<img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg"/>
 
 ### IDE and Tools
-<img height="50" width="50" src="https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=64&id=QEQQKirln6Tf&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=50&id=w1uD6vtDitjr&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=50&id=38389&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=50&id=nvtEH6DpqruC&format=png"/>
+<img height="50" width="50" src="https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=64&id=QEQQKirln6Tf&format=png"/> <img height="50" width="50" src="https://icons8.com/icon/61466/intellij-idea"/> <img height="50" width="50" src="https://img.icons8.com/?size=50&id=38389&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=50&id=nvtEH6DpqruC&format=png"/>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/yuvaraj_1505_?theme=dark&font=Luxurious%20Roman&ext=heatmap)
 
