@@ -18,7 +18,7 @@ BE Computer Science and Engineering Student
 
 ### IDE and Tools
 <img height="50" width="50" src="https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png"/> <img height="50" width="50" src="https://camo.githubusercontent.com/1ae7ec9e3f2d2459e2637f1a28e1adb98dd73bdcd4d8ef64030967f3caf11088/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f706f73746d616e2d333532313634382d323934353039322e706e67"/> <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"/> <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"/> <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg"/> <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Netlify_logo_%282%29.svg"/>
-
+### LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/yuvaraj_1505_?theme=dark&font=Luxurious%20Roman&ext=heatmap)
-
+### Github activity graph
 [![Yuvaraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuvaraj1556&theme=react-dark)](https://github.com/yuvaraj1556/github-readme-activity-graph)
